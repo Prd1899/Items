@@ -83,7 +83,7 @@
       "chademo": "0",
       "gb/t": "0"
     },
-    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
+    "imageurl": ["https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"]
   },
   {
     "id": "C-4",
@@ -110,7 +110,7 @@
       "chademo": "0",
       "gb/t": "0"
     },
-    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Navi%20Mumbai%20Life%20On%20Industry%20(2%20Charegrs)/Navi%20Mumbai-%20Lifeon%20Industry.jpeg"
+    "imageurl": ["https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Navi%20Mumbai%20Life%20On%20Industry%20(2%20Charegrs)/Navi%20Mumbai-%20Lifeon%20Industry.jpeg"]
   },
   {
     "id": "C-5",
@@ -164,7 +164,7 @@
       "chademo": "0",
       "gb/t": "0"
     },
-    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
+    "imageurl": ["https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"]
   },
   {
     "id": "C-7",
@@ -216,8 +216,7 @@
       "chademo": "0",
       "gb/t": "0"
     },
-    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
-  },
+    "imageurl": ["https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"]  },
   {
     "id": "C-9",
     "name": "Pluginindia Electrics | Santacruz",
@@ -240,8 +239,7 @@
       "chademo": "0",
       "gb/t": "0"
     },
-    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
-  },
+    "imageurl": ["https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"]  },
   {
     "id": "C-10",
     "name": "Pluginindia Electrics | Santacruz(W)",
@@ -264,8 +262,7 @@
       "chademo": "0",
       "gb/t": "0"
     },
-    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
-  },
+    "imageurl": ["https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"]  },
   {
     "id": "C-11",
     "name": "ChargeGrid 104 | CB Logistics",
@@ -291,7 +288,7 @@
       "chademo": "0",
       "gb/t": "0"
     },
-    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Mumbai-%20CB%20Logistics%20%20%20%20%20%20(1%20Charger)/Mumbai-%20CB%20Logistics.jpeg"
+    "imageurl": ["https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Mumbai-%20CB%20Logistics%20%20%20%20%20%20(1%20Charger)/Mumbai-%20CB%20Logistics.jpeg"]
   },
   {
     "id": "C-12",
@@ -348,8 +345,7 @@
       "chademo": "0",
       "gb/t": "0"
     },
-    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
-  },
+    "imageurl": ["https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"]  },
   {
     "id": "C-14",
     "name": "ChargeGrid 006 | Ascendas Cypress",
@@ -372,8 +368,7 @@
       "chademo": "0",
       "gb/t": "0"
     },
-    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
-  },
+    "imageurl": ["https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"]  },
   {
     "id": "C-15",
     "name": "ChargeGrid 037 | KoparKhairne ",
@@ -427,8 +422,7 @@
       "chademo": "0",
       "gb/t": "0"
     },
-    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
-  },
+    "imageurl": ["https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"]  },
   {
     "id": "C-17",
     "name": "ChargeGrid 010 | Gangadham",
@@ -478,7 +472,7 @@
       "chademo": "0",
       "gb/t": "0"
     },
-    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Pune-%20Bharti%20Gold%20CHS%20(1%20Charger)/Pune-%20Bharti%20Gold%20CHS.jpeg"
+    "imageurl": ["https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Pune-%20Bharti%20Gold%20CHS%20(1%20Charger)/Pune-%20Bharti%20Gold%20CHS.jpeg"]
   },
   {
     "id": "C-19",
@@ -532,8 +526,7 @@
       "chademo": "0",
       "gb/t": "0"
     },
-    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
-  },
+    "imageurl": ["https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"]  },
   {
     "id": "C-21",
     "name": "ChargeGrid 069 | Demo Unit , L&M ",
@@ -556,8 +549,7 @@
       "chademo": "0",
       "gb/t": "0"
     },
-    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
-  },
+    "imageurl": ["https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"]  },
   {
     "id": "C-22",
     "name": "ChargeGrid 091 | SSN College of Engineering ",
@@ -580,8 +572,7 @@
       "chademo": "0",
       "gb/t": "0"
     },
-    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
-  },
+    "imageurl": ["https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"]  },
   {
     "id": "C-23",
     "name": "ChargeGrid 001 | Banashankari ",
@@ -604,8 +595,7 @@
       "chademo": "0",
       "gb/t": "0"
     },
-    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
-  },
+    "imageurl": ["https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"]  },
   {
     "id": "C-24",
     "name": "ChargeGrid 068 | Demo Unit,L&M ",
@@ -628,8 +618,7 @@
       "chademo": "0",
       "gb/t": "0"
     },
-    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
-  },
+    "imageurl": ["https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"]  },
   {
     "id": "C-25",
     "name": "ChargeGrid 041 | ETO  ",
@@ -652,8 +641,7 @@
       "chademo": "0",
       "gb/t": "0"
     },
-    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
-  },
+    "imageurl": ["https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"]  },
   {
     "id": "C-26",
     "name": "ChargeGrid 025 | ETO  ",
@@ -676,8 +664,7 @@
       "chademo": "0",
       "gb/t": "0"
     },
-    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
-  },
+    "imageurl": ["https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"]  },
   {
     "id": "C-27",
     "name": "ChargeGrid 201 | Serilingampally",
@@ -700,8 +687,7 @@
       "chademo": "0",
       "gb/t": "0"
     },
-    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
-  },
+    "imageurl": ["https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"]  },
   {
     "id": "C-28",
     "name": "ChargeGrid 020 | HPCL RMC2020   ",
@@ -724,8 +710,7 @@
       "chademo": "0",
       "gb/t": "0"
     },
-    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
-  },
+    "imageurl": ["https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"]  },
   {
     "id": "C-29",
     "name": "ChargeGrid 045 | Elante   ",
@@ -775,8 +760,7 @@
       "chademo": "0",
       "gb/t": "0"
     },
-    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
-  },
+    "imageurl": ["https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"]  },
   {
     "id": "C-31",
     "name": "ChargeGrid 018 | Om EV Charger   ",
@@ -799,6 +783,5 @@
       "chademo": "0",
       "gb/t": "0"
     },
-    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
-  }
+    "imageurl": ["https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"]  }
 ]
