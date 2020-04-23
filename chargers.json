@@ -13,7 +13,7 @@
     "time": "7.00AM-7.00PM",
     "ac ": {
       "wall outlet": {
-        "charger": "1",
+        "charger": "1/1",
         "rate ": "₹ 0/unit"
       },
       "type2": "0",
@@ -44,7 +44,7 @@
     "time": "7.00AM-7.00PM",
     "ac ": {
       "wall outlet": {
-        "charger": "3",
+        "charger": "3/3",
         "rate ": "₹ 30/unit"
       },
       "type2": "0",
@@ -99,7 +99,7 @@
     "time": "7.00AM-7.00PM",
     "ac ": {
       "wall outlet": {
-        "charger": "1",
+        "charger": "1/1",
         "rate ": "₹ 30/unit"
       },
       "type2": "0",
@@ -126,7 +126,7 @@
     "time": "7.00AM-7.00PM",
     "ac ": {
       "wall outlet": {
-        "charger": "3",
+        "charger": "3/3",
         "rate ": "₹ 30/unit"
       },
       "type2": "0",
