@@ -1,0 +1,804 @@
+[
+  {
+    "id": "C-1",
+    "name": "ChargeGrid 076 | Mahindra",
+    "area": "Kandivali",
+    "access": "Private",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Magenta Power",
+    "number": "180030029444",
+    "address": "Mahindra Green GateShyamnarayan Thakur Marg,Mumbai,Maharashtra ",
+    "lat": "19.2060180",
+    "long": "72.8657140",
+    "time": "7.00AM-7.00PM",
+    "ac ": {
+      "wall outlet": {
+        "charger": "1",
+        "rate ": "₹ 0/unit"
+      },
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": [
+      "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Mumbai%20-%20Mahindra%20Plant%20(1%20Charger)/Mumbai%20-%20Mahindra%20Plant%20(1).jpeg",
+      "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Mumbai%20-%20Mahindra%20Plant%20(1%20Charger)/Mumbai%20-%20Mahindra%20Plant%20(2).jpeg",
+      "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Mumbai%20-%20Mahindra%20Plant%20(1%20Charger)/Mumbai%20-%20Mahindra%20Plant%20(3).jpeg"
+    ]
+  },
+  {
+    "id": "C-2",
+    "name": "ChargeGrid 005 | HPCL Colony",
+    "area": "Chembur",
+    "access": "Private",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Magenta Power",
+    "number": "180030029444",
+    "address": "HPCL Colony , Bharat NagarVasi naka , Chembur East , Mumbai,Maharashtra ",
+    "lat": "19.0308767",
+    "long": "72.8978676",
+    "time": "7.00AM-7.00PM",
+    "ac ": {
+      "wall outlet": {
+        "charger": "3",
+        "rate ": "₹ 30/unit"
+      },
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": [
+      "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Mumbai%20-%20HPCL%20Colony%20(1%20Charger)/cstat.jpg",
+      "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Mumbai%20-%20HPCL%20Colony%20(1%20Charger)/HPCL%20Colony%20(1).jpeg",
+      "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Mumbai%20-%20HPCL%20Colony%20(1%20Charger)/HPCL%20Colony%20(2).jpeg"
+    ]
+  },
+  {
+    "id": "C-3",
+    "name": "ChargeGrid 002 | Vashi",
+    "area": "Vashi",
+    "access": "Private",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Magenta Power",
+    "number": "180030029444",
+    "address": "Ground Floor , Plot - 81B-Lane , Sec-8 , Vashi, Navi Mumbai ,Maharashtra ",
+    "lat": "19.0853302",
+    "long": "72.9862461",
+    "time": "7.00AM-7.00PM",
+    "ac ": {
+      "wall outlet": "0",
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
+  },
+  {
+    "id": "C-4",
+    "name": "ChargeGrid 039 | Turbhe",
+    "area": "Turbhe",
+    "access": "Public",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Magenta Power",
+    "number": "180030029444",
+    "address": "LifeOn Industries , D-298T.T.C. Industrial Area, Navi Mumbai,Maharashtra ",
+    "lat": "19.0687356",
+    "long": "73.0203751",
+    "time": "7.00AM-7.00PM",
+    "ac ": {
+      "wall outlet": {
+        "charger": "1",
+        "rate ": "₹ 30/unit"
+      },
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Navi%20Mumbai%20Life%20On%20Industry%20(2%20Charegrs)/Navi%20Mumbai-%20Lifeon%20Industry.jpeg"
+  },
+  {
+    "id": "C-5",
+    "name": "ChargeGrid 083 | Shah Complex",
+    "area": "Sanpada",
+    "access": "Private",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Magenta Power",
+    "number": "180030029444",
+    "address": "Shah Complex IV , Palm Beach Rd Palm Beach , Sanpada ,Navi Mumbai,Maharashtra ",
+    "lat": "19.0594959",
+    "long": "73.0004666",
+    "time": "7.00AM-7.00PM",
+    "ac ": {
+      "wall outlet": {
+        "charger": "3",
+        "rate ": "₹ 30/unit"
+      },
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": [
+      "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Navi%20Mumbai%20-%20Shah%20Complex%20(3%20Chargers)/Navi%20Mumbai%20-%20Shah%20Complex%20(2).jpeg",
+      "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Navi%20Mumbai%20-%20Shah%20Complex%20(3%20Chargers)/Navi%20Mumbai%20-%20Shah%20Complex%20(3).jpeg"
+    ]
+  },
+  {
+    "id": "C-6",
+    "name": "G3 Motors | Nerul",
+    "area": "Nerul",
+    "access": "Public",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Rabindranath Mahato",
+    "number": "9619177007",
+    "address": "G3 Motors , MIDC Industrial Area Shiravne,Navi Mumbai,Maharashtra ",
+    "lat": "0",
+    "long": "0",
+    "time": "9.30AM-8.00PM",
+    "ac ": {
+      "wall outlet": "0",
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
+  },
+  {
+    "id": "C-7",
+    "name": "ChargeGrid 022 | i-Think Lodha",
+    "area": " Palava , Dombivli",
+    "access": "Public",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Magenta Power",
+    "number": "180030029444",
+    "address": "i-Think , Level B , Area 08 , Lodha Palava , Nilge Gaon , Dombivli ,Maharashtra ",
+    "lat": "19.1683453",
+    "long": "73.0717747",
+    "time": "7.00AM-7.00PM",
+    "ac ": {
+      "wall outlet": "0",
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": [
+      "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Lodha%2Cpallava/2.%20Lodha%2C%20Pallava_2.jpeg",
+      "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Lodha%2Cpallava/2.%20Lodha%2C%20Pallava_1.jpeg",
+      "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Lodha%2Cpallava/2.%20Lodha%2C%20Pallava_3.jpeg"
+    ]
+  },
+  {
+    "id": "C-8",
+    "name": "G3 Motors | Dombivli",
+    "area": "Dombivli",
+    "access": "Public",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Amol Vaishampayan",
+    "number": "9004683265",
+    "address": "Shah Complex IV ,G3 Motors , Vaze Building , Survey no. 6Near Manpada petrol Pump , Kalyan Shilphata Rd.,Maharashtra ",
+    "lat": "19.1984317",
+    "long": "73.0842637",
+    "time": "10.00AM-6.00PM",
+    "ac ": {
+      "wall outlet": "0",
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
+  },
+  {
+    "id": "C-9",
+    "name": "Pluginindia Electrics | Santacruz",
+    "area": "Santacruz",
+    "access": "Public",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Raphae Halim",
+    "number": "9869088296",
+    "address": "Moiz Appartments , 12th Road, Mumbai,Maharashtra ",
+    "lat": "0",
+    "long": "0",
+    "time": "0.00AM-0.00PM",
+    "ac ": {
+      "wall outlet": "0",
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
+  },
+  {
+    "id": "C-10",
+    "name": "Pluginindia Electrics | Santacruz(W)",
+    "area": "Santacruz(W)",
+    "access": "Private",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Raphae Halim",
+    "number": "9869088296",
+    "address": "Shop #4 , 2nd Hasanabad Lane , Willingdon, Mumbai,Maharashtra ",
+    "lat": "19.0799031",
+    "long": "72.8380893",
+    "time": "11.00AM-5.00PM",
+    "ac ": {
+      "wall outlet": "0",
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
+  },
+  {
+    "id": "C-11",
+    "name": "ChargeGrid 104 | CB Logistics",
+    "area": "Worli , Mumbai",
+    "access": "Private",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Magenta Power",
+    "number": "180030029444",
+    "address": "117 , Shivram seth Amritwar Marg ,Hanuman GaliBDD Chawls,Worli, Mumbai,Maharashtra ",
+    "lat": "19.0116561",
+    "long": "72.8156058",
+    "time": "7.00AM-7.00PM",
+    "ac ": {
+      "wall outlet": {
+        "charger": "1/1",
+        "rate ": "₹ 30/unit"
+      },
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Mumbai-%20CB%20Logistics%20%20%20%20%20%20(1%20Charger)/Mumbai-%20CB%20Logistics.jpeg"
+  },
+  {
+    "id": "C-12",
+    "name": "ChargeGrid 004 | Lonavala ",
+    "area": "Lonavala",
+    "access": "Private",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Magenta Power",
+    "number": "180030029444",
+    "address": "Hotel Centre Point , ValvanOff Express Highway Bridge ,Maharashtra ",
+    "lat": "18.7608564",
+    "long": "73.4192405",
+    "time": "7.00AM-7.00PM",
+    "ac ": {
+      "wall outlet": "0",
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": [
+      "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Lonavla/9.%20ChargeGrid%2C%20Lonavala_1.jpeg",
+      "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Lonavla/9.%20ChargeGrid%2C%20Lonavala_2.jpeg",
+      "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Lonavla/9.%20ChargeGrid%2C%20Lonavala_3.jpeg",
+      "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Lonavla/9.%20ChargeGrid%2C%20Lonavala_5.jpeg",
+      "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Lonavla/Lonavala-%20Hotel%20Centre%20Point%20(1).jpeg"
+    ]
+  },
+  {
+    "id": "C-13",
+    "name": "ChargeGrid 006 | Ascendas Juniper",
+    "area": "Hinjewadi",
+    "access": "Private",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Magenta Power",
+    "number": "180030029444",
+    "address": "Phase 3International Tech Park ,Pimpri - Chinchwad,Maharashtra ",
+    "lat": "18.5920244",
+    "long": "73.6815152",
+    "time": "7.00AM-7.00PM",
+    "ac ": {
+      "wall outlet": {
+        "charger": "1/1",
+        "rate ": "₹ 30/unit"
+      },
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
+  },
+  {
+    "id": "C-14",
+    "name": "ChargeGrid 006 | Ascendas Cypress",
+    "area": "Hinjewadi",
+    "access": "Private",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Magenta Power",
+    "number": "180030029444",
+    "address": "plot no- 18 , Ascendas International Technology Park Phase 3 , Hinjewadi,Rajiv Gandhi infotech park,Pune ,Maharashtra ",
+    "lat": "18.5920244",
+    "long": "73.6815152",
+    "time": "7.00AM-7.00PM",
+    "ac ": {
+      "wall outlet": "0",
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
+  },
+  {
+    "id": "C-15",
+    "name": "ChargeGrid 037 | KoparKhairne ",
+    "area": "Navi mumbai ",
+    "access": "Public",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Magenta Power",
+    "number": "180030029444",
+    "address": "2 , Alpha Garden Plot 26 , Sec -14.,KoparKhairne,Navi Mumbai,Maharashtra ",
+    "lat": "19.0963025",
+    "long": "73.0008127",
+    "time": "7.00AM-7.00PM",
+    "ac ": {
+      "wall outlet": {
+        "charger": "2/2",
+        "rate ": "₹ 30/unit"
+      },
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": [
+      "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Navi%20Mumbai-%20Magenta%20EV%20Solutions%20Pvt%20Ltd%20(2%20Charger)/7.%20ChargeGrid%20HO%2CNavi%20Mumbai_2.jpeg",
+      "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Navi%20Mumbai-%20Magenta%20EV%20Solutions%20Pvt%20Ltd%20(2%20Charger)/Navi%20Mumbai-%20Magenta%20EV%20Solutions%20Pvt%20Ltd%20(4).jpg",
+      "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Navi%20Mumbai-%20Magenta%20EV%20Solutions%20Pvt%20Ltd%20(2%20Charger)/Navi%20Mumbai-%20Magenta%20Power%20Pvt%20Ltd%20(3).jpeg"
+    ]
+  },
+  {
+    "id": "C-16",
+    "name": "ChargeGrid 101 | Ascendas Cedar",
+    "area": "Hinjewadi",
+    "access": "Private",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Magenta Power",
+    "number": "180030029444",
+    "address": "Phase 3International Tech Park, Hinjewadi,Pimpri Chinchwad ,Maharashtra ",
+    "lat": "18.5920244",
+    "long": "73.6815152",
+    "time": "7.00AM-7.00PM",
+    "ac ": {
+      "wall outlet": "0",
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
+  },
+  {
+    "id": "C-17",
+    "name": "ChargeGrid 010 | Gangadham",
+    "area": "Pune",
+    "access": "Private",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Magenta Power",
+    "number": "180030029444",
+    "address": "phase 1 ganga dham , pune ,Maharashtra ",
+    "lat": "0",
+    "long": "0",
+    "time": "7.00AM-7.00PM",
+    "ac ": {
+      "wall outlet": "0",
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": [
+      "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Pune%20-%20Gangadham%20CHS%20(1%20Charger)/Pune%20-%20Gangadham%20CHS%20(1).jpeg",
+      "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Pune%20-%20Gangadham%20CHS%20(1%20Charger)/Pune%20-%20Gangadham%20CHS%20(2).jpeg"
+    ]
+  },
+  {
+    "id": "C-18",
+    "name": "ChargeGrid 009 | Wagholi",
+    "area": "Pune",
+    "access": "Private",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Magenta Power",
+    "number": "180030029444",
+    "address": "Wagholi Bharti Gold Wagholi, pune ,Maharashtra ",
+    "lat": "18.579774",
+    "long": "73.9897058",
+    "time": "7.00AM-7.00PM",
+    "ac ": {
+      "wall outlet": "0",
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Pune-%20Bharti%20Gold%20CHS%20(1%20Charger)/Pune-%20Bharti%20Gold%20CHS.jpeg"
+  },
+  {
+    "id": "C-19",
+    "name": "ChargeGrid 026 | Ador",
+    "area": "Pune",
+    "access": "Private",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Magenta Power",
+    "number": "180030029444",
+    "address": "Ador Warrior City Campus , Plot No . 51 , D-II Block , pune ,Maharashtra ",
+    "lat": "18.648611",
+    "long": "73.7977956",
+    "time": "7.00AM-7.00PM",
+    "ac ": {
+      "wall outlet": "0",
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": [
+      "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Pune%20-%20Ador%20Digtron%20(1%20Charger)/1.%20Ador%2C%20Pune_3.jpeg",
+      "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Pune%20-%20Ador%20Digtron%20(1%20Charger)/Pune%20-%20Ador%20Digtron%20(1).jpeg"
+    ]
+  },
+  {
+    "id": "C-20",
+    "name": "ChargeGrid 033 | Moshi",
+    "area": " Pimpri Chinchwad",
+    "access": "Private",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Magenta Power",
+    "number": "180030029444",
+    "address": "Sec-11 , moshi Pimpri - Chinchwad, pune ,Maharashtra ",
+    "lat": "0",
+    "long": "0",
+    "time": "7.00AM-7.00PM",
+    "ac ": {
+      "wall outlet": {
+        "charger": "1/1",
+        "rate ": "₹ 30/unit"
+      },
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
+  },
+  {
+    "id": "C-21",
+    "name": "ChargeGrid 069 | Demo Unit , L&M ",
+    "area": " Ernakulam",
+    "access": "Public",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Magenta Power",
+    "number": "180030029444",
+    "address": "Chittoor Rd. Shenoys Ernakulam,Kerala  ",
+    "lat": "0",
+    "long": "0",
+    "time": "7.00AM-7.00PM",
+    "ac ": {
+      "wall outlet": "0",
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
+  },
+  {
+    "id": "C-22",
+    "name": "ChargeGrid 091 | SSN College of Engineering ",
+    "area": " Kalavakkam",
+    "access": "Private",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Magenta Power",
+    "number": "180030029444",
+    "address": "SSN College of engineering old Mahabalipuram Road ,Kalavakkam ,Tamil Nadu   ",
+    "lat": "12.7508703",
+    "long": "80.1950815",
+    "time": "7.00AM-7.00PM",
+    "ac ": {
+      "wall outlet": "0",
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
+  },
+  {
+    "id": "C-23",
+    "name": "ChargeGrid 001 | Banashankari ",
+    "area": " Bengaluru",
+    "access": "Public",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Magenta Power",
+    "number": "180030029444",
+    "address": "9th main road , Banashankari stage II ,Bengaluru ,Karnataka  ",
+    "lat": "0",
+    "long": "0",
+    "time": "10.00AM-10.00PM",
+    "ac ": {
+      "wall outlet": "0",
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
+  },
+  {
+    "id": "C-24",
+    "name": "ChargeGrid 068 | Demo Unit,L&M ",
+    "area": " Bengaluru",
+    "access": "Private",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Magenta Power",
+    "number": "180030029444",
+    "address": "Lawrence and mayo no:- 179-g , 96(5/1) Narasimharaja Rd , Bengaluru ,Karnataka  ",
+    "lat": "0",
+    "long": "0",
+    "time": "7.00AM-7.00PM",
+    "ac ": {
+      "wall outlet": "0",
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
+  },
+  {
+    "id": "C-25",
+    "name": "ChargeGrid 041 | ETO  ",
+    "area": " Secunderabad",
+    "access": "Public",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Magenta Power",
+    "number": "180030029444",
+    "address": "Dr.Zaheer Marg , IICT & IICT Colony ,Tarnaka , Secunderabad ,Telangana  ",
+    "lat": "17.4216745",
+    "long": "78.5388209",
+    "time": "7.00AM-7.00PM",
+    "ac ": {
+      "wall outlet": "0",
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
+  },
+  {
+    "id": "C-26",
+    "name": "ChargeGrid 025 | ETO  ",
+    "area": " Secunderabad",
+    "access": "Public",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Magenta Power",
+    "number": "180030029444",
+    "address": "9-1-83&84 Amarchand Sarma Complex . S.D Road Secunderabad , Telangana  ",
+    "lat": "17.4414145",
+    "long": "78.5022164",
+    "time": "7.00AM-7.00PM",
+    "ac ": {
+      "wall outlet": "0",
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
+  },
+  {
+    "id": "C-27",
+    "name": "ChargeGrid 201 | Serilingampally",
+    "area": " Secunderabad",
+    "access": "Public",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Magenta Power",
+    "number": "9440111333",
+    "address": "HP Filling station , dinesh filling station Sy.no 79 , 80 , 81 , 82 , village , Secunderabad , Telangana  ",
+    "lat": "0",
+    "long": "0",
+    "time": "7.00AM-7.00PM",
+    "ac ": {
+      "wall outlet": "0",
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
+  },
+  {
+    "id": "C-28",
+    "name": "ChargeGrid 020 | HPCL RMC2020   ",
+    "area": " Gurugram",
+    "access": "Public",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Magenta Power",
+    "number": "180030029444",
+    "address": "NH 48 , Sec-83 , New Delhi , NCR , gurugram , Haryana.  ",
+    "lat": "0",
+    "long": "0",
+    "time": "7.00AM-7.00PM",
+    "ac ": {
+      "wall outlet": "0",
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
+  },
+  {
+    "id": "C-29",
+    "name": "ChargeGrid 045 | Elante   ",
+    "area": " Chandigarh",
+    "access": "Public",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Magenta Power",
+    "number": "180030029444",
+    "address": "178-178A , Purv Marg Industrial Area Phase 1 ,Chandigarh,Punjab  ",
+    "lat": "30.7054976",
+    "long": "76.7990674",
+    "time": "7.00AM-7.00PM",
+    "ac ": {
+      "wall outlet": "0",
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": [
+      "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Chandigarh%20-%20Elante%20Mall%20(3%20Chargers)/5.%20Nexus%2C%20Chandigarh_2.jpeg",
+      "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/Chandigarh%20-%20Elante%20Mall%20(3%20Chargers)/Chandigarh%20-%20Elante%20Mall.jpeg"
+    ]
+  },
+  {
+    "id": "C-30",
+    "name": "ChargeGrid 095 | Shree Shakti Auto   ",
+    "area": " Bharuch",
+    "access": "Public",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Magenta Power",
+    "number": "180030029444",
+    "address": "22 Shreeji Complex near hotel narmada N.H.NO.8 , P.O , Satyam Twp,Bharuch,Gujarat ",
+    "lat": "0",
+    "long": "0",
+    "time": "7.00AM-7.00PM",
+    "ac ": {
+      "wall outlet": "0",
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
+  },
+  {
+    "id": "C-31",
+    "name": "ChargeGrid 018 | Om EV Charger   ",
+    "area": " Ahmedabad",
+    "access": "Public",
+    "provider": "https://raw.githubusercontent.com/Prd1899/JSON/master/Logo.png",
+    "contact": "Magenta Power",
+    "number": "180030029444",
+    "address": "Shop no 03 , near murlidhar hardware , opp Ambika DalwadaGota Cross Road , Ahmedabad,Gujarat ",
+    "lat": "0",
+    "long": "0",
+    "time": "9.00AM-7.00PM",
+    "ac ": {
+      "wall outlet": "0",
+      "type2": "0",
+      "iec": "0"
+    },
+    "dc": {
+      "ccs2": "0",
+      "chademo": "0",
+      "gb/t": "0"
+    },
+    "imageurl": "https://raw.githubusercontent.com/Prd1899/JSON/master/Charger%20pics/no-image.png"
+  }
+]
